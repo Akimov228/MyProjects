@@ -1,0 +1,11 @@
+chui = float(input('Введите температуру в Чуйской области '))
+osh = float(input('Введите температуру в Оше '))
+jal = float(input('Введите температуру в Жалал-Абаде '))
+nar = float(input('Введите температуру в Нарыне '))
+tal = float(input('Введите температуру в Таласе '))
+bat = float(input('Введите температуру в Баткене '))
+ik = float(input('Введите температуру на И-К '))
+sum_reg = (chui + osh + jal + nar + tal + bat + ik)
+temp = round(sum_reg / 7, 2)
+print(f'Средний показатель температуры воздуха по КР на сегодня {temp} °C. ')
+

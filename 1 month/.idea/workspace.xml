@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="106b6b07-c9a9-4452-829e-f532d985c731" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2G2jicN6qeALzkZp3GVvwfdx6nC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/Desktop/Python lessons/lesson_7_1.py&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Python&quot;
+    ]
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="106b6b07-c9a9-4452-829e-f532d985c731" name="Changes" comment="" />
+      <created>1665593704644</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665593704644</updated>
+      <workItem from="1665593706158" duration="490000" />
+      <workItem from="1665594201142" duration="3292000" />
+      <workItem from="1665630566743" duration="473000" />
+      <workItem from="1665643077230" duration="6010000" />
+      <workItem from="1665749149598" duration="1234000" />
+      <workItem from="1665768080649" duration="50000" />
+      <workItem from="1665768132072" duration="2107000" />
+      <workItem from="1665821648054" duration="3293000" />
+      <workItem from="1665826671358" duration="826000" />
+      <workItem from="1666007735255" duration="7091000" />
+      <workItem from="1666189449898" duration="18907000" />
+      <workItem from="1666324865423" duration="232000" />
+      <workItem from="1666345135190" duration="6710000" />
+      <workItem from="1666523679875" duration="10649000" />
+      <workItem from="1666679871791" duration="438000" />
+      <workItem from="1666680344822" duration="1455000" />
+      <workItem from="1666700921264" duration="825000" />
+      <workItem from="1666702584711" duration="11770000" />
+      <workItem from="1666893625386" duration="16000" />
+      <workItem from="1666958462790" duration="1302000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Atantay_24_1_hw4_py$Atantay_24_1_hw6.coverage" NAME="Atantay_24_1_hw6 Coverage Results" MODIFIED="1666357434300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Atantay_24_1_hw4_py$lesson_4_1.coverage" NAME="lesson_4_1 Coverage Results" MODIFIED="1665645505933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python lessons" />
+    <SUITE FILE_PATH="coverage/Atantay_24_1_hw4_py$Atantay_24_1_hw4.coverage" NAME="Atantay_24_1_hw4 Coverage Results" MODIFIED="1666276029512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Atantay_24_1_hw4_py$lesson_1_1.coverage" NAME="lesson_1_1 Coverage Results" MODIFIED="1666680305129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python lessons" />
+    <SUITE FILE_PATH="coverage/Atantay_24_1_hw4_py$Atantay_24_1_hw2.coverage" NAME="Atantay_24_1_hw2 Coverage Results" MODIFIED="1666275921041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Atantay_24_1_hw4_py$Atantay_24_1_hw5.coverage" NAME="Atantay_24_1_hw5 Coverage Results" MODIFIED="1666023584103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Atantay_24_1_hw4_py$lesson_5_1.coverage" NAME="lesson_5_1 Coverage Results" MODIFIED="1666023281338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python lessons" />
+    <SUITE FILE_PATH="coverage/Atantay_24_1_hw4_py$Atantay_24_1_hw8.coverage" NAME="Atantay_24_1_hw8 Coverage Results" MODIFIED="1666893374068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Atantay_24_1_hw4_py$Atantay_24_1_hw7.coverage" NAME="Atantay_24_1_hw7 Coverage Results" MODIFIED="1666680846844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Atantay_24_1_hw4_py$Atantay_24_1_hw3.coverage" NAME="Atantay_24_1_hw3 Coverage Results" MODIFIED="1666275978342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Atantay_24_1_hw4_py$Atantay_24_1_hw1.coverage" NAME="Atantay_24_1_hw1 Coverage Results" MODIFIED="1666275868592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Home_Tasks$Atantay_24_1_hw4.coverage" NAME="Atantay_24_1_hw4 Coverage Results" MODIFIED="1665596948470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
